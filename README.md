@@ -17,7 +17,7 @@ A modern, responsive, and feature-complete **Student Profile Mobile Application*
 - **Internship Program:** Devixo Solutions App Development Internship
 - **Task Number:** Task 01 – Student Profile Mobile Application
 - **Internship Domain:** Mobile App Development (Flutter & Dart)
-- **GitHub Repository:** [https://github.com/abdullahazeem/students_profile](https://github.com/abdullahazeem/students_profile)
+- **GitHub Repository:** [https://github.com/AbdullahAzeem12/students_profile](https://github.com/AbdullahAzeem12/students_profile)
 - **Documentation Report:** [DEVIXO_TASK_01_STUDENT_PROFILE_REPORT.pdf](DEVIXO_TASK_01_STUDENT_PROFILE_REPORT.pdf)
 
 ---
@@ -175,7 +175,7 @@ Real Android hardware verification:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/abdullahazeem/students_profile.git
+   git clone https://github.com/AbdullahAzeem12/students_profile.git
    cd students_profile
    ```
 

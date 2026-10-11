@@ -620,7 +620,7 @@ Status: Application successfully launched with zero runtime crashes or ANRs."""
 
     github_box_content = """
     <b>Public GitHub Repository URL:</b><br/>
-    <font color='#4F46E5'><b>https://github.com/abdullahazeem/students_profile</b></font><br/><br/>
+    <font color='#4F46E5'><b>https://github.com/AbdullahAzeem12/students_profile</b></font><br/><br/>
     <b>Repository Contents:</b><br/>
     • <code>/lib</code> — Production Dart & Flutter application source code<br/>
     • <code>/assets</code> — Images, vector mockups, diagrams, and Space Grotesk fonts<br/>
